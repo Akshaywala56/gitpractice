@@ -1,2 +1,3 @@
-# gitpractice
-This repository is created for practicing Git commands and testing various Git scenarios. It's designed to help improve skills in resolving conflicts and handling common issues, boosting confidence for managing code in stage and production environments at work. Thank you for visiting!
+as per observation
+1)i can see when we create repo in remotely and localy with different name then it cant do push or pull .
+we need same name in both places remotely as well as in locally
